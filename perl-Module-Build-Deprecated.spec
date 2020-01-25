@@ -4,7 +4,6 @@
 #
 %define		pdir	Module
 %define		pnam	Build-Deprecated
-%include	/usr/lib/rpm/macros.perl
 Summary:	Module::Build::Deprecated - A collection of modules removed from Module-Build
 Summary(pl.UTF-8):	Module::Build::Deprecated - zbiór modułów usuniętych z Module-Build
 Name:		perl-Module-Build-Deprecated
