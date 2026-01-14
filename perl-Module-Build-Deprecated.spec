@@ -8,7 +8,7 @@ Summary:	Module::Build::Deprecated - A collection of modules removed from Module
 Summary(pl.UTF-8):	Module::Build::Deprecated - zbiór modułów usuniętych z Module-Build
 Name:		perl-Module-Build-Deprecated
 Version:	0.4210
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
